@@ -36,7 +36,7 @@ Evaluation and Results
 ### NLP-EDA (Exploratory Data Analysis for NLP)
 This project focuses on performing exploratory data analysis (EDA) for natural language processing (NLP) tasks. The following are the key components and steps involved in the notebook:
 
-Install necessary libraries using pip:
+* Install necessary libraries using pip:
 * datasets: For loading and managing datasets.
 * nltk: Natural Language Toolkit for text processing.
 * pandas: Data manipulation and analysis.
@@ -60,10 +60,10 @@ Data Cleaning and Preprocessing
 * Text Tokenization: Tokenize the text data using word_tokenize from nltk.
 * Stopword Removal: Remove common stopwords using nltk.corpus.stopwords.
   
-*Data Visualization
+* Data Visualization
 
-*Word Cloud: Generate word clouds to visualize the most frequent terms in the dataset.
-Frequency Distribution: Plot frequency distributions of terms to gain insights into the text data.
+* Word Cloud: Generate word clouds to visualize the most frequent terms in the dataset.
+* Frequency Distribution: Plot frequency distributions of terms to gain insights into the text data.
 Statistical Analysis
 
 * Term Frequency Analysis: Use Counter from collections to count the frequency of terms in the dataset.
